@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtualdars.Quiz.Backend", "Virtualdars.Quiz.Backend.csproj", "{62747127-8CCC-4018-8843-9EE2E014A9A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62747127-8CCC-4018-8843-9EE2E014A9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62747127-8CCC-4018-8843-9EE2E014A9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62747127-8CCC-4018-8843-9EE2E014A9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62747127-8CCC-4018-8843-9EE2E014A9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F82898BC-1192-48B7-B154-63A016CAD2DD}
+	EndGlobalSection
+EndGlobal
