@@ -8,6 +8,7 @@ import { MatSliderModule } from '@angular/material/slider';
 import {MatButtonModule} from '@angular/material/button';
 import {MatInputModule} from '@angular/material/input'; 
 import {MatCardModule} from '@angular/material/card';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
 
@@ -23,6 +24,7 @@ import {MatCardModule} from '@angular/material/card';
     MatButtonModule,
     MatInputModule,
     MatCardModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

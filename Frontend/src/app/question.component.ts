@@ -6,7 +6,8 @@ import { Component } from "@angular/core";
   selector:'question'    
 })
 export class QuestionComponent {
+  question:string;
   post(){
-    console.log('Ishladi');
+    console.log(this.question);
   }
 }
